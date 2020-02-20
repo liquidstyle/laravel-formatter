@@ -1,4 +1,4 @@
-<?php namespace SoapBox\Formatter;
+<?php namespace Liquidstyle\Formatter;
 
 use Illuminate\Support\Arr;
 
