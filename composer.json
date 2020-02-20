@@ -29,13 +29,13 @@
     },
     "autoload": {
         "psr-4": {
-            "SoapBox\\Formatter\\": "src/"
+            "Liquidstyle\\Formatter\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "aliases": {
-                "Formatter": "SoapBox\\Formatter"
+                "Formatter": "Liquidstyle\\Formatter"
             }
         }
     },
