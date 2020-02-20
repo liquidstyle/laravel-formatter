@@ -1,6 +1,8 @@
 Changelog
 ================
 
+- THIS FORK IS SPECIFICALLY TO CHANGE THE Illuminate Version Requirement - NO OTHER CHANGES
+
 - Update support for Laravel 6 & phpunit 8
 - Update composer.json
 - Upgrade to PSR-4
@@ -14,8 +16,6 @@ Changelog
 
 Formatter Bundle
 ================
-
-[![Build Status](https://travis-ci.org/SoapBox/laravel-formatter.svg?branch=master)](https://travis-ci.org/SoapBox/laravel-formatter)
 
 A formatter package that will help you to easily convert between various formats such as XML, JSON, CSV, etc...
 
@@ -63,7 +63,7 @@ All of the following are formats that are supported for output.
 __Including The Formatter__
 
 ```php
-use SoapBox\Formatter\Formatter;
+use Liquidstyle\Formatter\Formatter;
 ```
 
 __Supported Types__
