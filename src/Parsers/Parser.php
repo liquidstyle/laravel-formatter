@@ -1,7 +1,7 @@
-<?php namespace SoapBox\Formatter\Parsers;
+<?php namespace Liquidstyle\Formatter\Parsers;
 
 use Illuminate\Support\Str;
-use SoapBox\Formatter\ArrayHelpers;
+use Liquidstyle\Formatter\ArrayHelpers;
 use Spyc;
 
 /**
