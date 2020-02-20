@@ -1,7 +1,7 @@
-<?php namespace SoapBox\Formatter;
+<?php namespace Liquidstyle\Formatter;
 
 use Illuminate\Support\ServiceProvider;
-use SoapBox\Formatter\Formatter as Formatter;
+use Liquidstyle\Formatter\Formatter as Formatter;
 
 /**
  * Used to register Authroize with service providers, mainly for Laravel.
