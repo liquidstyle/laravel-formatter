@@ -1,12 +1,12 @@
-<?php namespace SoapBox\Formatter;
+<?php namespace Liquidstyle\Formatter;
 
 use InvalidArgumentException;
-use SoapBox\Formatter\Formatter as Formatter;
-use SoapBox\Formatter\Parsers\ArrayParser;
-use SoapBox\Formatter\Parsers\CsvParser;
-use SoapBox\Formatter\Parsers\JsonParser;
-use SoapBox\Formatter\Parsers\XmlParser;
-use SoapBox\Formatter\Parsers\YamlParser;
+use Liquidstyle\Formatter\Formatter as Formatter;
+use Liquidstyle\Formatter\Parsers\ArrayParser;
+use Liquidstyle\Formatter\Parsers\CsvParser;
+use Liquidstyle\Formatter\Parsers\JsonParser;
+use Liquidstyle\Formatter\Parsers\XmlParser;
+use Liquidstyle\Formatter\Parsers\YamlParser;
 
 class Formatter
 {
